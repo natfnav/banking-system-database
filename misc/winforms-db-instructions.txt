@@ -1,0 +1,7 @@
+Getting Database Working in Forms
+
+1) Tools > NuGet Package Manager > Manage NuGet Packages for Solution
+2) Browse > Search for Npgsql & Install
+3) In Database.cs adjust the connection string with correct data
+connectionString = "Host=;Port=;Username=;Password=;Database=";
+4) Ensure PGAdmin4 is running and Database server is active

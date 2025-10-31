@@ -1,0 +1,24 @@
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\bin\Debug\net8.0-windows\Team11 Bank Database.exe
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\bin\Debug\net8.0-windows\Team11 Bank Database.deps.json
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\bin\Debug\net8.0-windows\Team11 Bank Database.runtimeconfig.json
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\bin\Debug\net8.0-windows\Team11 Bank Database.dll
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\bin\Debug\net8.0-windows\Team11 Bank Database.pdb
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11 Bank Database.csproj.AssemblyReference.cache
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11_Bank_Database.Form1.resources
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11_Bank_Database.ModifyMenu.resources
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11_Bank_Database.QueryMenu.resources
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11_Bank_Database.ViewMenu.resources
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11 Bank Database.csproj.GenerateResource.cache
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11 Bank Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11 Bank Database.AssemblyInfoInputs.cache
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11 Bank Database.AssemblyInfo.cs
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11 Bank Database.csproj.CoreCompileInputs.cache
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11 Bank Database.csproj.CopyComplete
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11 Bank Database.dll
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\refint\Team11 Bank Database.dll
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11 Bank Database.pdb
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\Team11 Bank Database.genruntimeconfig.cache
+C:\Users\natfn\Documents\Banking System Database\Team11 Bank Database\Team11 Bank Database\obj\Debug\net8.0-windows\ref\Team11 Bank Database.dll

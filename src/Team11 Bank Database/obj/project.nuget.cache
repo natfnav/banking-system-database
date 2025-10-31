@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nh4bCyF8OD6mduiq8EpM29/bwlxlwwxLO3tIxL9Z6rInSdWZp+tp4lKk9cXofdh+MYtQhx2tBM1eQoqc7b/OuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natfn\\Documents\\Banking System Database\\Team11 Bank Database\\Team11 Bank Database\\Team11 Bank Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natfn\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\natfn\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\natfn\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

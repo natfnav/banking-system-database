@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshu\\source\\repos\\Team11 Bank Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F21A91-893B-483E-BE05-6313CB1CF314}|Team11 Bank Database\\Team11 Bank Database.csproj|C:\\Users\\joshu\\source\\repos\\Team11 Bank Database\\team11 bank database\\viewmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9F21A91-893B-483E-BE05-6313CB1CF314}|Team11 Bank Database\\Team11 Bank Database.csproj|solutionrelative:team11 bank database\\viewmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F21A91-893B-483E-BE05-6313CB1CF314}|Team11 Bank Database\\Team11 Bank Database.csproj|c:\\users\\joshu\\source\\repos\\team11 bank database\\team11 bank database\\viewmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F21A91-893B-483E-BE05-6313CB1CF314}|Team11 Bank Database\\Team11 Bank Database.csproj|solutionrelative:team11 bank database\\viewmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F21A91-893B-483E-BE05-6313CB1CF314}|Team11 Bank Database\\Team11 Bank Database.csproj|c:\\users\\joshu\\source\\repos\\team11 bank database\\team11 bank database\\querymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F21A91-893B-483E-BE05-6313CB1CF314}|Team11 Bank Database\\Team11 Bank Database.csproj|solutionrelative:team11 bank database\\querymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F21A91-893B-483E-BE05-6313CB1CF314}|Team11 Bank Database\\Team11 Bank Database.csproj|C:\\Users\\joshu\\source\\repos\\Team11 Bank Database\\team11 bank database\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9F21A91-893B-483E-BE05-6313CB1CF314}|Team11 Bank Database\\Team11 Bank Database.csproj|solutionrelative:team11 bank database\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 156,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueryMenu.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\Team11 Bank Database\\Team11 Bank Database\\QueryMenu.cs",
+              "RelativeDocumentMoniker": "Team11 Bank Database\\QueryMenu.cs",
+              "ToolTip": "C:\\Users\\joshu\\source\\repos\\Team11 Bank Database\\Team11 Bank Database\\QueryMenu.cs",
+              "RelativeToolTip": "Team11 Bank Database\\QueryMenu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:11:59.681Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\Team11 Bank Database\\Team11 Bank Database\\ViewMenu.cs",
+              "RelativeDocumentMoniker": "Team11 Bank Database\\ViewMenu.cs",
+              "ToolTip": "C:\\Users\\joshu\\source\\repos\\Team11 Bank Database\\Team11 Bank Database\\ViewMenu.cs [Design]",
+              "RelativeToolTip": "Team11 Bank Database\\ViewMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:10:50.22Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewMenu.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\Team11 Bank Database\\Team11 Bank Database\\ViewMenu.cs",
+              "RelativeDocumentMoniker": "Team11 Bank Database\\ViewMenu.cs",
+              "ToolTip": "C:\\Users\\joshu\\source\\repos\\Team11 Bank Database\\Team11 Bank Database\\ViewMenu.cs",
+              "RelativeToolTip": "Team11 Bank Database\\ViewMenu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:10:52.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\Team11 Bank Database\\Team11 Bank Database\\Main Menu.cs",
+              "RelativeDocumentMoniker": "Team11 Bank Database\\Main Menu.cs",
+              "ToolTip": "C:\\Users\\joshu\\source\\repos\\Team11 Bank Database\\Team11 Bank Database\\Main Menu.cs [Design]",
+              "RelativeToolTip": "Team11 Bank Database\\Main Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:04:39.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
