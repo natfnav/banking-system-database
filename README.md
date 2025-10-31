@@ -1,5 +1,5 @@
 # Project Overview
-Our project is all about building a database for a banking organization. This organization will serve 
+This project is all about building a database for a banking organization. This organization will serve 
 the banking needs of customers, who will be conducting their transactions at physical bank
 locations staffed by tellers and bank managers. The main purpose of the database is to track
 the transactions and current balance of customers’ accounts, with a secondary purpose of
